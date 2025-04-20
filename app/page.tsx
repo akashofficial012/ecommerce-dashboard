@@ -19,6 +19,22 @@ export default function Home() {
         </span>
         <div className={subtitle({ class: "mt-4" })}>
           Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
+        </div><div className={subtitle({ class: "mt-4" })}>
+          Beautiful, fast and modern React UI library.
         </div>
       </div>
 
