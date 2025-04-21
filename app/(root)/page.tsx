@@ -70,3 +70,35 @@ export default function Home() {
     </section>
   );
 }
+
+    {/* <div
+                className={`${
+                  isDropdownOpen
+                    ? "opacity-100 translate-y-0 z-30"
+                    : "opacity-0 translate-y-[-10px] z-[-1]"
+                } bg-white boxShadow rounded-md py-3 px-4 absolute top-[60px] left-0 w-full transition-all duration-300`}
+              >
+                <h3 className="text-gray-900 font-[500] text-[1rem]">
+                  Your password must contain:
+                </h3>
+
+                <div className="w-full mt-2 flex-col flex gap-[6px]">
+                  {hintList.map((hint, index) => (
+                    <div
+                      key={index}
+                      className={`${
+                        signal[hint.type as keyof typeof signal]
+                          ? "text-green-500"
+                          : "text-gray-500"
+                      } text-[0.8rem] flex items-center gap-[8px]`}
+                    >
+                      {signal[hint.type as keyof typeof signal] ? (
+                        <MdDone className="text-[1rem]" />
+                      ) : (
+                        <RxCross1 />
+                      )}
+                      {hint.text}
+                    </div>
+                  ))}
+                </div>
+              </div> */}
